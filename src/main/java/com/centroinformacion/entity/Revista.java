@@ -19,7 +19,7 @@ import jakarta.persistence.Temporal;
 import jakarta.persistence.TemporalType;
 import lombok.Getter;
 import lombok.Setter;
-
+//SEMANA7
 @Getter
 @Setter
 @Entity
